@@ -100,7 +100,8 @@ namespace TapTitanXNA_Vertouso_Jacob
                         int support_positionY = (Level.windowHeight / 2) - (support.Height / 4) + 65;
                         supportPosition = new Vector2((float)support_positionX, (float)support_positionY);
 
-                      
+
+                        boss = content.Load<Texture2D>("hero/bossHit");
                         bossHit = new Animation(boss, 0.1f, true, 7);
                         int boss_positionX = (Level.windowWidth / 2) - (support.Width / 4) + 100;
                         int boss_positionY = (Level.windowHeight / 2) - (support.Height / 4) + 30;
@@ -138,6 +139,10 @@ namespace TapTitanXNA_Vertouso_Jacob
                     spritePlayer.PlayAnimation(idleAnimation);
 
 
+                    int boss_positionX = (Level.windowWidth / 2) - (support.Width / 4)+100;
+                    int boss_positionY = (Level.windowHeight / 2) - (support.Height / 4) + 30;
+                    bossPosition = new Vector2((float)boss_positionX, (float)boss_positionY);
+                    bossPlayer.PlayAnimation(bossAnimation);
                     s1 = "idle";
                 }
               
