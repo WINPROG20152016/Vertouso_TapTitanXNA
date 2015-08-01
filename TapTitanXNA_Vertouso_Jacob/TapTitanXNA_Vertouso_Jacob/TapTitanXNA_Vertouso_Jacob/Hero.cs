@@ -148,11 +148,6 @@ namespace TapTitanXNA_Vertouso_Jacob
               
             }
 
-            
-
-         
-
-          
         }
 
 
