@@ -1,0 +1,57 @@
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\TapTitanXNA_Vertouso_Jacob.exe
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\TapTitanXNA_Vertouso_Jacob.pdb
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.exe
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.pdb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\gamebg.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\dk-idle.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\dk-attack1.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\support-idle.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\button.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\gamebg.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\dk-idle.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\dk-attack1.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\support-idle.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\button.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\TapTitanXNA_Vertouso_Jacob.exe
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\TapTitanXNA_Vertouso_Jacob.pdb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.exe
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.pdb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\boss.xnb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\gamebg.xnb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\dk-idle.xnb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\dk-attack1.xnb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\support-idle.xnb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\button.xnb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\boss.xnb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\TapTitanXNA_Vertouso_Jacob.exe
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\TapTitanXNA_Vertouso_Jacob.pdb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.exe
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.pdb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\link.xnb
+C:\Users\istudent\Downloads\TapTitanXNA_Vertouso_Jacob (2)\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\linkAttack.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\gamebg.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\dk-idle.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\dk-attack1.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\support-idle.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\button.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\boss.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\link.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\linkAttack.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\TapTitanXNA_Vertouso_Jacob.exe
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\TapTitanXNA_Vertouso_Jacob.pdb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.exe
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.pdb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\boss2.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\bossHit.xnb
