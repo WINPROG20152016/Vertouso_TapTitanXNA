@@ -41,7 +41,7 @@ namespace TapTitanXNA_Vertouso_Jacob
         int y1 = 0;
         int playerDamage = 0;
         SpriteFont damageStringFont;
-        int enemyHp = 500;
+        int enemyHp = 50;
         SpriteFont HpStringFont;
         String s1 = "Idle";
 
@@ -133,6 +133,10 @@ namespace TapTitanXNA_Vertouso_Jacob
 
                         s1 = "attack";
                         enemyHp--;
+                        if (enemyHp <= 0)
+                        {
+                            enemyHp = 10;
+                        }
 
 
                         playerDamage = 1;                  
