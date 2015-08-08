@@ -73,7 +73,7 @@ namespace TapTitanXNA_Vertouso_Jacob
             
             hero.Draw(gameTime, spriteBatch);
 
-            spriteBatch.DrawString(damageStringFont, damageNumber + " damage!", Vector2.Zero, Color.White);
+            spriteBatch.DrawString(damageStringFont, damageNumber + " damage!", Vector2.Zero, Color.Black);
 
             playButton.Draw(gameTime, spriteBatch);
         }

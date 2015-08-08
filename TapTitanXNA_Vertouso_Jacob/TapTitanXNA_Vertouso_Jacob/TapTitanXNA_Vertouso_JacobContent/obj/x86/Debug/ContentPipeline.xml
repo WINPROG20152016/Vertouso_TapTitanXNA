@@ -100,6 +100,15 @@
       <Output>C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\bossHit.xnb</Output>
       <Time>2015-08-01T10:32:49.1619956+08:00</Time>
     </Item>
+    <Item>
+      <Source>hero\at.png</Source>
+      <Name>hero\at</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\at.xnb</Output>
+      <Time>2015-08-08T10:08:04.6107718+08:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

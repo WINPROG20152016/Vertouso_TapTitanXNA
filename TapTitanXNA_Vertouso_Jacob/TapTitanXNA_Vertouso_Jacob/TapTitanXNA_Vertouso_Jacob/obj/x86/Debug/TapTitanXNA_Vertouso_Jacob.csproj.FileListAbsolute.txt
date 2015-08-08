@@ -55,3 +55,4 @@ C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertou
 C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\obj\x86\Debug\TapTitanXNA_Vertouso_Jacob.pdb
 C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\boss2.xnb
 C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\bossHit.xnb
+C:\Users\istudent\Documents\TapTitanXNA_Vertouso_Jacob\github\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\TapTitanXNA_Vertouso_Jacob\bin\x86\Debug\Content\hero\at.xnb
