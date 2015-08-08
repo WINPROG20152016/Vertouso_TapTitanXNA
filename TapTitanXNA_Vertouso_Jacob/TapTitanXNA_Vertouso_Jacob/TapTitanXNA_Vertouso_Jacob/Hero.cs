@@ -186,7 +186,7 @@ namespace TapTitanXNA_Vertouso_Jacob
 
             y1 -= 5;
             spriteBatch.DrawString(damageStringFont, "-" + playerDamage + " Hp", new Vector2(190, y1 + 250), Color.Red);
-            spriteBatch.DrawString(HpStringFont, enemyHp  +" Hp", new Vector2(100, /*y1 +*/ 250), Color.Black);
+            spriteBatch.DrawString(HpStringFont, enemyHp  +" Hp", new Vector2(100,250), Color.Black);
                 
         }
 
